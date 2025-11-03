@@ -1,9 +1,7 @@
-# OpenForte™
-
 <picture height="20">
-  <source media="(prefers-color-scheme: dark)" width="332.46" height="62" srcset="./OpenForte_Dark.webp">
-  <source media="(prefers-color-scheme: light)" width="332.46" height="62" srcset="./OpenForte_Light.webp">
-  <img alt="Fallback image description" width="332.46" height="62" src="./OpenForte_Dark.webp">
+  <source media="(prefers-color-scheme: dark)" width="498.69" height="93" srcset="./OpenForte_Dark.webp">
+  <source media="(prefers-color-scheme: light)" width="498.69" height="93" srcset="./OpenForte_Light.webp">
+  <img alt="Fallback image description" width="498.69" height="93" src="./OpenForte_Dark.webp">
 </picture>
 
 ## We Build Software for Experts
